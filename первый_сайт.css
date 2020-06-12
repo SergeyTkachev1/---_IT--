@@ -1,0 +1,18 @@
+h1{
+	padding-left:50px;
+	color:red;
+}
+ul {
+	background-image: url(.jpg);
+}
+body {
+	background-image: url(.jpg);
+}
+
+.paragraph{
+	color:blue;
+}
+
+#sidebar{
+	color:green;
+}
